@@ -1,4 +1,7 @@
-# Bounce <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/openmoji/292/soccer-ball_26bd.png" width="55" align="center">
+<h1 align="center"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1041/1041168.png" width="50" align="center">  
+  <a href="https://rajathpi.github.io/bounce/">Bounce</a>  
+</h1>
 <a href="https://raw.githubusercontent.com/rajathpi/bounce/main/bounce.py">
   code
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/backhand-index-pointing-left_1f448.png" width="30" align="center">
