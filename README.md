@@ -5,7 +5,7 @@
 <a href="https://raw.githubusercontent.com/rajathpi/bounce/main/bounce.py">
   code
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/backhand-index-pointing-left_1f448.png" width="30" align="center">
- </a></br></br>
+ </a><br><br>
 Simple OpenCV project which uses the movement of your face and hands to move the plank and score
 
 ## Installations
